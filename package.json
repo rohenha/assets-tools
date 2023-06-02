@@ -19,7 +19,7 @@
     "sprite": "./bin/sprite/index.js",
     "images": "./bin/images/index.js",
     "fonts": "./bin/fonts/index.js",
-    "test": "./bin/test/index.js"
+    "say-hello": "./bin/test/index.js"
   },
   "contributors": [
     {
