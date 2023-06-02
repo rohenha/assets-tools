@@ -1,0 +1,39 @@
+{
+  "name": "assets-tools",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/rohenha/assets-tools",
+  "main": "index.js",
+  "engines": {
+    "node": ">=18 <19"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rohenha/assets-tools.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rohenha/assets-tools/issues"
+  },
+  "contributors": [
+    {
+      "name": "Romain Breton",
+      "email": "romain@troa.fr",
+      "url": "https://troa.fr"
+    }
+  ],
+  "scripts": {
+    "template": "node utils/templates",
+    "sprite": "node utils/sprite",
+    "fonts": "node utils/fonts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "fontmin": "^0.9.9",
+    "inquirer": "^9.1.5",
+    "svg-sprite": "^2.0.2"
+  },
+  "dependencies": {
+  }
+}
