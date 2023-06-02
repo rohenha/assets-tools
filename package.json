@@ -14,6 +14,13 @@
   "bugs": {
     "url": "https://github.com/rohenha/assets-tools/issues"
   },
+  "bin": {
+    "template": "./bin/templates/index.js",
+    "sprite": "./bin/sprite/index.js",
+    "images": "./bin/images/index.js",
+    "fonts": "./bin/fonts/index.js",
+    "test": "./bin/test/index.js"
+  },
   "contributors": [
     {
       "name": "Romain Breton",
