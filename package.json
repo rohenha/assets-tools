@@ -26,8 +26,8 @@
     }
   ],
   "scripts": {
-    "generate-component": "node .bin/components",
-    "generate-assets": "node .bin/generation"
+    "generate-component": "node bin/components",
+    "generate-assets": "node bin/generation"
   },
   "keywords": [],
   "author": "",
