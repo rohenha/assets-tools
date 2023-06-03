@@ -21,14 +21,13 @@
   "contributors": [
     {
       "name": "Romain Breton",
-      "email": "romain@troa.fr",
-      "url": "https://troa.fr"
+      "email": "romain.breton.pro@gmail.com",
+      "url": "https://romain-breton.com"
     }
   ],
   "scripts": {
-    "template": "node utils/templates",
-    "sprite": "node utils/sprite",
-    "fonts": "node utils/fonts"
+    "generate-component": "node .bin/components",
+    "generate-assets": "node .bin/generation"
   },
   "keywords": [],
   "author": "",
