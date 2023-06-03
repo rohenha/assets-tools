@@ -15,10 +15,8 @@
     "url": "https://github.com/rohenha/assets-tools/issues"
   },
   "bin": {
-    "create-component": "./bin/templates/index.js",
-    "g-sprite": "./bin/sprite/index.js",
-    "g-images": "./bin/images/index.js",
-    "g-fonts": "./bin/fonts/index.js"
+    "generate-component": "./bin/components/index.js",
+    "generate-assets": "./bin/generation/index.js"
   },
   "contributors": [
     {
