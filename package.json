@@ -16,7 +16,7 @@
   },
   "bin": {
     "generate-component": "./bin/components/index.js",
-    "generate-assets": "./bin/generation/index.js"
+    "generate-assets": "./bin/generate-assets/index.js"
   },
   "contributors": [
     {
@@ -27,7 +27,7 @@
   ],
   "scripts": {
     "generate-component": "node bin/components",
-    "generate-assets": "node bin/generation"
+    "generate-assets": "node bin/generate-assets"
   },
   "keywords": [],
   "author": "",
